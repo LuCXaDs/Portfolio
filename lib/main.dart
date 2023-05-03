@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: 'MyFolio',
       theme: ThemeData.dark().copyWith(
         appBarTheme: const AppBarTheme(
           toolbarHeight: 80,
