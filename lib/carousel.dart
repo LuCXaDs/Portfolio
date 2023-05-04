@@ -47,6 +47,7 @@ class _SiteState extends State<Site> {
             scrollPhysics: const PageScrollPhysics(),
           ),
           items: [
+            const Presentation(),
             const HomePage(),
             const Presentation(),
             // const ParallaxText(),
